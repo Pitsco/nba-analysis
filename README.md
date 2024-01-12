@@ -31,5 +31,19 @@ Page Screens For Website Frontend
 
 ![2](https://github.com/Pitsco/nba-analysis/assets/111464993/1daba489-caac-42b3-aaff-f424115e5291)
 
+Notes:
+store preferences, not just store in database,
+doesn't think pull nba data into own database
+
+fantasy team, could store fantasy team in database, could look up over the week, 
+
+team beats someone else's team?
+
+can calculate who won or lost over the week, helps to predict based on historical data, 
+
+could have future prediction for betting? focus on a fantasy 
+
+no replication of players on the same team. 
+
 ![1](https://github.com/Pitsco/nba-analysis/assets/111464993/6775c50e-5d59-4b21-86be-02cb961688a9)
 
