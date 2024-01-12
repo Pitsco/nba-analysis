@@ -45,5 +45,9 @@ could have future prediction for betting? focus on a fantasy
 
 no replication of players on the same team. 
 
+
+next week:
+finalize api, try to finalize features
+
 ![1](https://github.com/Pitsco/nba-analysis/assets/111464993/6775c50e-5d59-4b21-86be-02cb961688a9)
 
