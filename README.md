@@ -21,14 +21,15 @@ UML Class Design:
 
 Page Screens For Website Frontend
 
-https://github.com/Pitsco/nba-analysis/assets/111464993/27e12167-2d5f-474f-a95d-73fbba16fa19
+![6](https://github.com/Pitsco/nba-analysis/assets/111464993/1a7b6d9b-3152-4d32-b95a-a7eb4cdc6e4a)
 
-https://github.com/Pitsco/nba-analysis/assets/111464993/bd196473-038d-4bac-8110-8e837e3bf86b
+![5](https://github.com/Pitsco/nba-analysis/assets/111464993/8e0b4419-689e-4700-a22e-fac066760a2e)
 
-https://github.com/Pitsco/nba-analysis/assets/111464993/a05832fc-e5de-4bac-b333-c26a2e7c89e2
+![4](https://github.com/Pitsco/nba-analysis/assets/111464993/832a3b02-2a0c-4a8b-9d8c-3c15cc3b3c39)
 
-https://github.com/Pitsco/nba-analysis/assets/111464993/59d31b27-6882-4402-87ef-201d5fa07ffd
+![3](https://github.com/Pitsco/nba-analysis/assets/111464993/50a2d5eb-477b-4ab2-ba7d-3d2a11c97d30)
 
-https://github.com/Pitsco/nba-analysis/assets/111464993/bb2b308a-a476-4739-95c4-165eb41a254a
+![2](https://github.com/Pitsco/nba-analysis/assets/111464993/1daba489-caac-42b3-aaff-f424115e5291)
 
-https://github.com/Pitsco/nba-analysis/assets/111464993/6338652e-a469-471f-9a8d-3f4b625e585a
+![1](https://github.com/Pitsco/nba-analysis/assets/111464993/6775c50e-5d59-4b21-86be-02cb961688a9)
+
